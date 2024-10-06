@@ -33,4 +33,4 @@ Lastly, we need to manually destroy the window. SDL is a C-based library, meanin
 }
 ```
 [Go back to Home](https://sites.google.com/view/game-development-with-sdl2-cpp/home "Go back to Home")
-[Next Lesson: Events](https://sites.google.com/view/game-development-with-sdl2-cpp/first-steps/events "Next Lesson: Events")
+# [Next Lesson: Events](https://sites.google.com/view/game-development-with-sdl2-cpp/first-steps/events "Next Lesson: Events")
